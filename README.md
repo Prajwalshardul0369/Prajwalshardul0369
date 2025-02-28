@@ -1,5 +1,4 @@
-# 💫 About Me  
-💫 About Me
+#  About Me  
 I am currently focused on Python and Data Science, specializing in machine learning, deep learning, and data analytics. My expertise lies in applying advanced techniques to solve real-world problems and derive actionable insights from data.
 
 I am actively seeking collaboration opportunities in Machine Learning and AI models to develop innovative solutions and contribute to impactful projects.
