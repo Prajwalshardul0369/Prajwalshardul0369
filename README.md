@@ -1,18 +1,70 @@
-# 💫 About Me:
-🔭 I’m currently working on<Python and Datascience>👯 I’m looking to collaborate on<Machine Learning and Ai model>🤝 I’m looking for help with<br>🌱 I’m currently learning<Datascience>💬 Ask me about<Python>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajwal-shardul-a9171628b/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prajwalshardul0369&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prajwalshardul0369&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalshardul0369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 💫 About Me  
+🔭 I’m currently working on **Python** and **Data Science**, with a focus on machine learning, deep learning, and data analytics.  
+👯 I’m looking to collaborate on **Machine Learning** and **AI models** for real-world applications.  
+🌱 I’m currently learning **advanced Data Science techniques** and exploring cutting-edge research in the field of AI.  
+💬 Ask me about **Python**, **Data Science**, **Machine Learning**, **AI models**, and **Data Visualization**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prajwalshardul0369&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-shardul-a9171628b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white)](https://github.com/Prajwalshardul0369)  
+
+---
+
+## 💻 Tech Stack
+
+### **Programming Languages**:
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Data Science & Machine Learning**:
+- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+- ![XGBoost](https://img.shields.io/badge/XGBoost-%23FF6600.svg?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### **Data Visualization**:
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- ![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+### **Web Development & Frameworks**:
+- ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### **Database & Cloud**:
+- ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23007080.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+- **Total Contributions**: ![](https://github-readme-stats.vercel.app/api?username=Prajwalshardul0369&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+- **GitHub Streak**: ![](https://github-readme-streak-stats.herokuapp.com/?user=Prajwalshardul0369&theme=dark&hide_border=false)  
+- **Top Languages**: ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalshardul0369&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+## 📚 Projects  
+Check out my repositories and projects in **Machine Learning**, **AI models**, and **Data Science**:
+
+- [**Machine Learning Projects**](https://github.com/Prajwalshardul0369?tab=repositories&q=&type=&language=python)  
+- [**Data Science Projects**](https://github.com/Prajwalshardul0369?tab=repositories&q=&type=&language=python)
+
+---
+
+## 📩 Contact Me  
+Feel free to reach out to me via the following platforms:  
+- [Email](mailto:your-email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/prajwal-shardul-a9171628b/)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
