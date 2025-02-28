@@ -1,9 +1,12 @@
 # 💫 About Me  
-🔭 I’m currently working on **Python** and **Data Science**, with a focus on machine learning, deep learning, and data analytics.  
-👯 I’m looking to collaborate on **Machine Learning** and **AI models** for real-world applications.  
-🌱 I’m currently learning **advanced Data Science techniques** and exploring cutting-edge research in the field of AI.  
-💬 Ask me about **Python**, **Data Science**, **Machine Learning**, **AI models**, and **Data Visualization**.
+💫 About Me
+I am currently focused on Python and Data Science, specializing in machine learning, deep learning, and data analytics. My expertise lies in applying advanced techniques to solve real-world problems and derive actionable insights from data.
 
+I am actively seeking collaboration opportunities in Machine Learning and AI models to develop innovative solutions and contribute to impactful projects.
+
+In addition, I am continuously enhancing my skills by exploring cutting-edge research and advanced data science techniques to stay at the forefront of AI development.
+
+Feel free to reach out to me about Python, Data Science, Machine Learning, AI, and Data Visualization.
 ---
 
 ## 🌐 Connect with Me  
