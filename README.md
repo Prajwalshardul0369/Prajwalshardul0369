@@ -5,7 +5,7 @@ I am actively seeking collaboration opportunities in Machine Learning and AI mod
 
 In addition, I am continuously enhancing my skills by exploring cutting-edge research and advanced data science techniques to stay at the forefront of AI development.
 
-Feel free to reach out to me about Python, Data Science, Machine Learning, AI, and Data Visualization.
+Feel free to reach out to me about Python, Data Science, Machine Learning, AI.
 ---
 
 ## 🌐 Connect with Me  
@@ -24,19 +24,18 @@ Feel free to reach out to me about Python, Data Science, Machine Learning, AI, a
 ### **Data Science & Machine Learning**:
 - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 - ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
 
 ### **Data Visualization**:
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 - ![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
 - 
 
 ### **Database & Cloud**:
 - ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23007080.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ---
 
